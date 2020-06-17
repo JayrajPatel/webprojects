@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: turquoise;
+  background-color: #7ed6df;
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
@@ -62,12 +62,12 @@ h1 {
 }
 
 .letter {
-  border-bottom: 3px solid #2980b9;
+  border-bottom: 4px solid #686de0;
   display: inline-flex;
   font-size: 30px;
   align-items: center;
   justify-content: center;
-  margin: 0 3px;
+  margin: 0 7px;
   height: 50px;
   width: 20px;
 }
